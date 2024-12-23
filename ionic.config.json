@@ -1,0 +1,7 @@
+{
+  "name": "bases_front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
